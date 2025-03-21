@@ -4,12 +4,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- :school: I am a `Bachelor of Computer Sciences student` at [Universidad ORT Uruguay](https://fi.ort.edu.uy/).\
+ :school: I am pursuing a `Bachelor's Degree on Computer Sciences` at [Universidad ORT Uruguay](https://fi.ort.edu.uy/).\
 🖥️ I love using Software as a solution for every `Problem`.\
-🌱 &nbsp;I'm on track for learning more about Backend Development.\
+🌱 &nbsp;I enjoy being a Full-Stack Developer.\
 🏃 &nbsp;In my free time, I enjoy doing athletics.\
-✉️ &nbsp;You can shoot me an email at jpalvarezcores@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://fi365-my.sharepoint.com/:b:/g/personal/ja281369_fi365_ort_edu_uy/EWaZY0u6oL1Dn8kAovoE4dsBLmyfAaOz-2ZTY9zWDa-rgQ?e=E0eg9Y) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at jpalvarezcores@gmail.com! I won't leave you waiting.\
+📄 &nbsp;Please have a look at my [Resume](https://1drv.ms/b/c/c571a164daaa70c2/ESWuyg9FLx5GrSx-T1RiYLsBPYgxrC4t5JesskWAlQINPw?e=xqOaX9) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Languages
 
